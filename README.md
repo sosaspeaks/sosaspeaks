@@ -8,8 +8,6 @@
 ### I am currently reading: ###
 <a href="https://www.goodreads.com/user/show/186650794-sosaspeaks)"><img src="https://goodreads-readme.vercel.app/api/book?id=186650794" alt="GoodReads reading" width="350" /></a>
 
-**[SosaSpeaks Blog](https://sosaspeaks.github.io)** — essays on society, ideology, and history
-
 ---
 
 ## ✍️ Featured Articles
