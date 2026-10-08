@@ -6,7 +6,7 @@
 
 ---
 
-> “How it is we have so much information, but know so little?”
+> ### “How it is we have so much information, but know so little?”
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
