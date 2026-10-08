@@ -6,13 +6,14 @@
 
 ---
 
-> ### “How it is we have so much information, but know so little?”
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="sosaspeaks's GitHub profile" src="dark_mode.svg" />
 </picture>
+
+
+> ## “How it is we have so much information, but know so little?”
 
 🎓 *Computer Science @ Northeastern University*
 🎻 *10+ years on violin*
