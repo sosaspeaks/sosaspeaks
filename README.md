@@ -9,8 +9,6 @@
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
-https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=GITHUB_USERNAME&theme=THEME&color=1
-
 ---
 
 ## ✍️ Featured Articles
