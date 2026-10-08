@@ -1,5 +1,11 @@
 # sosaspeaks
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="sosaspeaks-logo-3-inverted.png" />
+  <source media="(prefers-color-scheme: light)" srcset="sosaspeaks-logo-3.png" />
+  <img alt="sosaspeaks" src="sosaspeaks-logo-3.png" />
+</picture>
+
 > “How it is we have so much information, but know so little?”
 
 <picture>
