@@ -18,7 +18,7 @@
 🎓 *Computer Science @ Northeastern University*
 🎻 *10+ years on violin*
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sosaspeaks&hide_border=true&timezone=EST&date_format=M%20j%5B%2C%20Y%5D&card_width=520)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sosaspeaks&hide_border=true&timezone=EST&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
