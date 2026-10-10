@@ -20,7 +20,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Hyperpolitics: Extreme Politicization without Political Consequences](https://www.goodreads.com/review/show/8947765449?utm_medium=api&utm_source=rss) by Anton Jäger (⭐️3.57)
+- [Hyperpolitics: Extreme Politicization without Political Consequences](https://www.goodreads.com/review/show/8947765449?utm_medium=api&utm_source=rss) by Anton Jäger (⭐️3.56)
 - [Programmed to Kill: The Politics of Serial Murder](https://www.goodreads.com/review/show/8944068083?utm_medium=api&utm_source=rss) by David    McGowan (⭐️3.88)
 - [Everyday Life in the North Korean Revolution, 1945–1950](https://www.goodreads.com/review/show/7271374117?utm_medium=api&utm_source=rss) by Suzy Kim (⭐️4.28)
 - [Socialism…Seriously: A Brief Guide to Human Liberation](https://www.goodreads.com/review/show/8827868767?utm_medium=api&utm_source=rss) by Danny Katch (⭐️3.88)
