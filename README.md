@@ -15,7 +15,7 @@
 
 > ## “How it is we have so much information, but know so little?”
 
-🎓 *Computer Science @ Northeastern University*
+🎓 *Computing and Law @ Northeastern University '29*
 🎻 *10+ years on violin*
 
 ### Books I'm currently reading
