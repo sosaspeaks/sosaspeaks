@@ -3,7 +3,12 @@
   <source media="(prefers-color-scheme: light)" srcset="sosaspeaks-logo-blk.png" />
   <img alt="sosaspeaks" src="sosaspeaks-logo-blk.png" />
 </picture>
-
+                                                __       
+   _________  _________ __________  ___  ____ _/ /_______
+  / ___/ __ \/ ___/ __ `/ ___/ __ \/ _ \/ __ `/ //_/ ___/
+ (__  ) /_/ (__  ) /_/ (__  ) /_/ /  __/ /_/ / ,< (__  ) 
+/____/\____/____/\__,_/____/ .___/\___/\__,_/_/|_/____/  
+                          /_/                            
 ---
 
 <picture>
