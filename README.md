@@ -41,3 +41,5 @@
 
 - #### 🔎 [The Moral Dilemma of Defying Law for One’s Convictions](https://sosaspeaks.org/articles/defyinglaw050124.html)
 > Cowritten with peer *rawls*, analyzing when law conflicts with morals.
+
+![LeetCode Stats](https://leetcode.card.workers.dev/sosaspeaks?theme=auto&font=source_code_pro&extension=activity)
